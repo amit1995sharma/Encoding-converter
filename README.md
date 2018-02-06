@@ -26,6 +26,7 @@ Now it have 11 bit pair with it.
 3) Now we will devide this 11 bit to a pair of 5 and 6
 
 pair-1 = 00010
+
 pair-2 = 000000
 
 
@@ -34,9 +35,13 @@ pair-2 = 000000
 Now complete pair will look like 1100 0010 1000 0000   which is equal to C2 80
 
 Note
+
 1 byte first bit is 0
+
 2 byte starting bits 110
+
 3 byte starting bits 1110
+
 4 byte starting bits 11110
 
 
