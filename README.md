@@ -34,7 +34,7 @@ pair-2 = 000000
 
 Now complete pair will look like 1100 0010 1000 0000   which is equal to C2 80
 
-Note
+Note:
 
 1 byte first bit is 0
 
