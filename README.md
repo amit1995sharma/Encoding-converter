@@ -1,4 +1,11 @@
-# Encoding-converter
+# Encoding-converter   
+
+sample input:
+
+A2 to C2 A2
+
+80 to C2 80
+
 Conversion of UTF-16 to UTF-8 format
 
 In file utfchangenew.cpp 
